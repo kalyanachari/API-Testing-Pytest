@@ -1,0 +1,2 @@
+<Response [200]>
+{'email_addr': 'ifrzejqb@guerrillamailblock.com', 'email_timestamp': 1693222277, 'alias': 't6qzby+2znpi7g7qbneg', 'sid_token': 'la5uoqvplsipdskk1n5ibblvml'}
